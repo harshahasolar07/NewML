@@ -1,0 +1,7 @@
+{
+    "production": {
+        "version": "v2",
+        "model_name": "RandomForest",
+        "f1_score": 0.9722222222222222
+    }
+}
